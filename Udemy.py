@@ -5,6 +5,7 @@ Created on Tue Feb 20 20:54:58 2018
 @author: Akshit
 """
 from selenium import webdriver
+import time
 
 def main():
     driver = webdriver.Chrome()
